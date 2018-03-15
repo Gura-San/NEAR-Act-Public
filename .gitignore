@@ -1,0 +1,26 @@
+# Build files
+*cache/
+*files/
+
+# IPython cruft
+.ipynb_checkpoints
+
+# Mac cruft
+.DS_Store
+._*
+
+# from rawdata
+/data/rawdata/arrests_11-15-17.csv
+/data/rawdata/case_charges.csv
+/data/rawdata/cio_incidents.csv
+/data/rawdata/crimes_11-15-17.csv
+/data/rawdata/dbh_mh_raw.csv
+/data/rawdata/dbh_seh_raw.csv
+/data/rawdata/dbh_sud_raw.csv
+
+# from not_public_output_data
+/data/not_public_output_data/case_charges.csv
+/data/not_public_output_data/cio_incidents.csv
+/data/not_public_output_data/mental_health_services.csv
+/data/not_public_output_data/saint_elizabeths_records.csv
+/data/not_public_output_data/substance_use_disorder_services.csv
